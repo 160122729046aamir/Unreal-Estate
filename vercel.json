@@ -3,7 +3,7 @@
   "name": "unreal-estate",
   "builds": [
     {
-      "src": "*.html",
+      "src": "index.html",
       "use": "@vercel/static"
     }
   ],
